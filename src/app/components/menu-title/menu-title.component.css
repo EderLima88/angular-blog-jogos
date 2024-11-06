@@ -1,6 +1,9 @@
-.titulo {
-    font-size: 100px;
+.container__menu-title {
     color: white;
-    border:  2px solid white;
+}
+
+.container__menu-title h1 {
     text-align: center;
+    font-size: 135px;
+    margin-top: 30px;
 }
