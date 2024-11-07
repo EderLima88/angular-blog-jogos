@@ -12,7 +12,7 @@
 
 .big-card__img img  {
     max-width: 100%;
-    min-width: 400px;
+    /* min-width: 400px; */
   }
 
 .big-card__titulo {
@@ -21,8 +21,12 @@
   }
 .big-card__descricao {
     margin-top:20px;
-}
+    }
 
 .big-card__descricao p a {
     color: gray;
+    font-size: 24px;
+}
+.big-card__descricao p{
+  text-align: justify;
 }

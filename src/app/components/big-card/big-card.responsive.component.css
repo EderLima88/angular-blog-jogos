@@ -1,0 +1,17 @@
+@media screen and (max-width:600px) {
+   .big-card__descricao {
+    width: 350px;
+    }
+
+    .big-card__descricao p a {
+      font-size: 22px;
+    }
+
+  .big-card__img img {
+   width: 338px;
+  }
+
+  .container__big-card{
+    height: 100%;
+  }
+}

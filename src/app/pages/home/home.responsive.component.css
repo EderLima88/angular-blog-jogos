@@ -3,11 +3,29 @@
         display: flex;
         flex-direction: column;
         margin-left: 20px;
-    }
+        
+        }
 
     .artigos__outros {
         font-size: 8px;
         margin-top: 50px;
+        margin-left: 20px;
+     }
+
+}
+
+
+@media screen and (max-height:600px) {
+    .container__artigos {
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+        
+        }
+
+    .artigos__outros {
+        font-size: 8px;
+        margin-top: 80px;
         margin-left: 20px;
      }
 }
