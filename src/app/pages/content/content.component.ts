@@ -1,11 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, RouterLink, RouterOutlet } from '@angular/router';
 import { dataFake } from '../../data/daFake';
+import { FooterComponent } from "../../components/footer/footer.component";
 
 @Component({
   selector: 'app-content',
   standalone: true,
-  imports: [RouterLink, RouterOutlet],
+  imports: [RouterLink, RouterOutlet, FooterComponent],
   templateUrl: './content.component.html',
   styleUrls: ['./content.component.css', './content.responsive.component.css']
 })
