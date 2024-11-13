@@ -1,27 +1,26 @@
-# AngularBlogJogos
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.9.
+<p align="center">
+  <img  src="public\esc_resized.png">
+</p>
 
-## Development server
+# Está no Github Pages 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Acessendo o endereço:  [Link do projeto no Pages](https://ederlima88.github.io/angular-blog-jogos/)
 
-## Code scaffolding
+## Criação do projeto
+Usando os conceitos de componentes, as páginas foram criadas com seus elementos sepadados. Buscando o entendimento, foi personalizada e adicionado mais elementos e criado mais rotas além do projeto original.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## O tema 
+Conteúdo extraído do Wikipédia e referenciado. Relacionado aos jogos de video game da série Silent Hill da Konami de diferentes plataformas.
 
-## Build
+## O banco de dados
+Foi criado apenas um arquivo para ser usado como acesso aos dados, não havendo propositalmente utilização de banco de dados externo visto que era para ententimento da componentização.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Responsividade
+A página apresenta responsividade para dispositivos móveis e para o navegador quando redimensionado para pequenas resoluções.
 
-## Running unit tests
+## Imagem da Home 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<p align="center">
+  <img  src="public\sh.png"> 
+</p>
