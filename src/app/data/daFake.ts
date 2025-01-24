@@ -1,7 +1,7 @@
 export const dataFake = [
     {
         "id":0,
-        "title":"Siillent Hill é um jogo de terror clássico",
+        "title":"Silent Hill é um jogo de terror clássico",
         "description":"Silent Hill, é uma série japonesa de jogos eletrônicos do gênero survival horror produzida e publicada pela Konami. Sua primeira estreia foi no jogo homônimo para PlayStation em fevereiro de 1999.",
         "photoCover":"https://th.bing.com/th/id/OIP.bKUsWQ27Ec4VWyzuSiferQHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain"
     },
